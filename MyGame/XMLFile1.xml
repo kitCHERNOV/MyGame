@@ -1,9 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <people>
-	<person name="Niki">
-		<name>"Niki"</name>
-	</person>
-	<person name="Bob">
-		<name>"Bob"</name>
+	<ceramica>
+		<person name="Niki">
+			<name>"Niki"</name>
+		</person>
+		<person name="Bob">
+			<name>"Bob"</name>
+		</person>
+	</ceramica>
+	<person name="Gen">
+		<name>"Gen"</name>
 	</person>
 </people>

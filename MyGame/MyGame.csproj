@@ -141,6 +141,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="psql.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="XMLFile1.xml" />
